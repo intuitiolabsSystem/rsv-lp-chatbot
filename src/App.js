@@ -416,7 +416,7 @@ export default function App() {
         gap: "16px",
         background: "#0d0d0a",
       }}>
-        <img src="/rightshift-logo.png" alt="" />
+        <img src="/rightshift-logo.png" width="36px" alt="" />
         <div>
           <div style={{ fontSize: "15px", fontWeight: "600", fontFamily: '"Neue Haas Grotesk", Helvetica, Arial, sans-serif', letterSpacing: "0.04em", color: "#4B1FA8" }}>
             RightShift Ventures
