@@ -416,22 +416,9 @@ export default function App() {
         gap: "16px",
         background: "#0d0d0a",
       }}>
-        <div style={{
-          width: "36px",
-          height: "36px",
-          background: "linear-gradient(135deg, #c9a84c, #8b6914)",
-          borderRadius: "4px",
-          display: "flex",
-          alignItems: "center",
-          justifyContent: "center",
-          fontSize: "16px",
-          fontWeight: "bold",
-          color: "#0a0a08",
-          letterSpacing: "-0.5px",
-          flexShrink: 0,
-        }}>RS</div>
+        <img src="/rightshift-logo.png" alt="" />
         <div>
-          <div style={{ fontSize: "15px", fontWeight: "600", letterSpacing: "0.04em", color: "#e8e4dc" }}>
+          <div style={{ fontSize: "15px", fontWeight: "600", fontFamily: '"Neue Haas Grotesk", Helvetica, Arial, sans-serif', letterSpacing: "0.04em", color: "#4B1FA8" }}>
             RightShift Ventures
           </div>
           <div style={{ fontSize: "11px", color: "#7a7468", letterSpacing: "0.12em", textTransform: "uppercase" }}>
