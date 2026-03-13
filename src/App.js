@@ -20,7 +20,7 @@ SLIDE 1 — FUND OVERVIEW
 - GP Commit: 10% — $330K personal skin in the game — 5× the ILPA minimum
 - Personal Capital: $330K already deployed before asking any LP for a dollar
 - Target Close: Q2 2026 — Lab Graduate Oct 2024
-- Leadership: Four operators. 40+ years. Built products. Raised capital. Exited companies. Now we invest.
+- Leadership: Four operators. 60+ years. Built products. Raised capital. Exited companies. Now we invest.
 
 SLIDE 2 — WHY WE EXIST (Team Origin Story)
 - Deep Kalina: 18 years building products inside startups, Verizon, enterprise innovation labs. Founding team member at Hum by Verizon (part of $612M acquisition by Hughes Telematics). Co-built Drive Safe & Save with State Farm (still one of the largest active telematics programs in the country). Product and technology lead on Hum by Verizon, scaled to millions of subscribers in under a year. Built Kazzam through Ampology in partnership with Party City — watched it get acquired.
@@ -52,23 +52,20 @@ SLIDE 6 — THE ECOSYSTEM (Three Entities, One Flywheel)
 - RightShift Ventures (Fund): $3M investment vehicle. Invests in ecosystem graduates and a structured outside track. Up to $25K Product Capital + $75K Growth Capital. Capital deploys only after product is de-risked.
 Most funds outsource 1–2 functions. We own all three — studio, accelerator, and fund — operating as a single integrated system.
 
+SLIDE 6 — COMPETITIVE POSITIONING
+"We Sit in a White Space No One Else Occupies"
+- National accelerators (YC, Techstars): Program depth, no regional roots, no embedded studio
+- Southeast generalists (BIP Capital, Valor): Regional access, no product-first filter
+- RightShift Ventures: Only Southeast fund combining a proprietary product studio + active accelerator + investment vehicle
+- Southeast VC deployed $7.1B in 1H 2025 — a 33% year-over-year increase — projected to reach $12B for full-year 2025, more than 23% above the 2018 baseline (BIP Ventures / PitchBook 2025)
+
 SLIDE 7 — TRACK RECORD (Overview)
 $225M+ product valuation created for companies built by Intuitio Labs over six years.
 100% product completion rate for all projects.
 6 years dedicated to AI-powered products.
+40+ MVPs launched across 11 industry verticals.
 
-SLIDE 8 — TRACK RECORD (Detail)
-Studio Track Record — Intuitio Labs:
-- 40+ MVPs launched · 100% completion rate · 11 industries
-- $225M+ in product value created · $16M+ follow-on capital secured
-- 13-month average time to product-market fit
-
-Personal Capital — Pre-Fund I:
-- Capital deployed (personal): $330K across 4 companies
-- Portfolio securing follow-on: 75%
-- Revenue positive at graduation: 70%
-
-External Validation:
+SLIDE 8 — TRACK RECORD (External Validation)
 - Okkanti → Techstars (institutional accelerator selection)
 - Ballin.ai → Slauson & Co + a16z (Tier-1 VC co-investment post-RSV entry)
 - Luxe AI → Gener8tor Pinnacle Innovation Accelerator (National accelerator selection)
@@ -76,9 +73,10 @@ External Validation:
 - VULVAi → 2025 NIA Start-Up Challenge Finalist (1 of 21 selected nationally, federal NIH recognition) + 2025 Echoing Green Fellow (selected from 4,200+ applicants) + media credibility in NYT, Oprah Daily, Forbes, Colbert Show; Dr. Uloko has lectured at Yale, Harvard, UCLA, USC.
 
 SLIDE 9 — TEAM
-Deep Kalina, Managing Partner (deep.kalina@rightshift.co): 18+ years identifying and scaling opportunities across product studios, venture-backed startups, and enterprise innovation labs. 9 patents across AI, e-commerce, sports tech, and healthcare. Founding team member at Hum by Verizon (part of $612M acquisition).
-Chris Davis, Managing Partner (chris.davis@rightshift.co): 13 years in tech startups across sports, recruiting, education, entertainment. Co-founder and CEO of Fansub ($1.5M raised at $5M valuation from 4 institutional investors). Fansub transferred into Fund I as a warehouse deal. Mentors at Techstars, Act House, Gener8tor, Black Ambition. MBA from Emory, BA from Duke (football captain).
-Anastasia Nicole, Operator | Investor | Advisor (anastasia@rightshift.co)
+Deep Kalina, Managing Partner (deep.kalina@rightshift.co): 18+ years. 9 patents. Intuitio Labs founder. $225M+ product value. $16M+ follow-on secured. Held equity in In-Drive — sold to Verizon as Hughes Telematics for $612M. Co-built Drive Safe & Save with State Farm. Product and technology lead on Hum by Verizon. Built Kazzam through Ampology — acquired by Party City.
+Chris Davis, Managing Partner (chris.davis@rightshift.co): 13 years tech startups. CEO, Fansub (raised $1.5M at $5M valuation from 4 institutional investors). MBA Emory. BA Duke. Mentor: Techstars, Act House, Gener8tor, Black Ambition. Fansub transferred into Fund I as a warehouse deal (Deep evaluated independently with Chris recused).
+Anastasia Nicole, Operator | Investor | Advisor (anastasia@rightshift.co): 50 investments across North America and Europe. Shadow Ventures. Founder Gym Atlanta 30 Under 30. Southeast climatetech and edtech champion.
+Anna Cable, Network Development & Capital Strategy (anna@rightshift.co): Aligns capital with vision across philanthropy, startups, and values-led organizations. Early-stage investment and network development.
 
 SLIDE 10 — GOVERNANCE
 - Conflict-of-interest protocol: One warehouse deal (Fansub) was co-founded by Chris Davis. Evaluated independently by Deep Kalina with Chris fully recused from the final investment decision. All future GP-adjacent investments follow the same documented protocol.
@@ -107,26 +105,21 @@ Track 1 — Studio Track (Ballin.ai, Sports-Tech/AI):
 Q2 2024: Introduced via accelerator partner network. Q3 2024: Phase 1 executed — Product Capital deployed, RightShift team builds Ballin's Early Testable Product (ETP). Q4 2024: Milestone gate cleared. Ballin receives term sheets from Slauson & Co. and a16z. Q1 2025: Phase 2 Growth Capital deployed. Q2 2025–Present: $5M valuation. Outcome: Tier-1 co-investors. Better entry valuation. No information gap when capital deployed.
 Track 2 — Accelerator Track (VulvAI, Women's Health/AI):
 Dr. Maria Uloko accepted into RightShift Accelerator. 8-week program, 100+ hours hands-on. Milestone gate cleared. Post-graduation: 2025 NIA Start-Up Challenge Finalist, 2025 Echoing Green Fellow (from 4,200+ applicants), featured NYT/Forbes/Oprah Daily/Colbert Show. Fund Entry: $5M valuation. Market: $2.6B and growing.
+"The Standard Is the Same: One came through the studio. One came through the accelerator. Both built with us first. Both cleared the milestone gate. Neither received growth capital on a pitch deck alone. That's not a process — it's a filter."
 
-SLIDE 14 — COMPETITIVE POSITIONING
-"We Sit in a White Space No One Else Occupies"
-- National accelerators (YC, Techstars): Program depth, no regional roots, no embedded studio
-- Southeast generalists (BIP Capital, Valor): Regional access, no product-first filter
-- RightShift Ventures: Only Southeast fund combining a proprietary product studio + active accelerator + investment vehicle
-- Southeast VC deployed $7.1B in 1H 2025 — a 33% year-over-year increase — projected to reach $12B for full-year 2025, more than 23% above the 2018 baseline (BIP Ventures / PitchBook 2025)
-
-SLIDE 15 — VALUE-ADD
+SLIDE 14 — VALUE-ADD
 "We're Product Co-Founders. Not Just Capital Providers."
 1. 65 Product Experts: Continue as active product collaborators post-investment — real engineers, designers, and PMs working in the product. Not advisory calls.
 2. Custom AI Agents: Purpose-built for portfolio monitoring and development acceleration. Every portfolio company inherits that infrastructure.
 3. Strategic Partnerships: Microsoft, AWS, and Qburst provide enterprise-tier technical resources to portfolio companies at accessible cost structures unavailable to standalone pre-seed startups.
 4. Talent Pipeline: Portfolio companies get first access to vetted designers, engineers, and PMs from the studio talent network.
 
-SLIDE 16 — FUND ECONOMICS (see full model data below in FUND MODEL section)
+SLIDE 15 — FUND ECONOMICS (see full model data below in FUND MODEL section)
+Note: Deck explicitly shows GP Commit as 10% → $300,000. The $330K figure elsewhere in the deck reflects personal pre-fund capital deployed across 4 companies before Fund I.
 
-SLIDE 17 — RETURN SCENARIOS (see full model data below in FUND MODEL section)
+SLIDE 16 — RETURN SCENARIOS (see full model data below in FUND MODEL section)
 
-SLIDE 18 — LP PARTNERSHIP
+SLIDE 17 — LP PARTNERSHIP
 What You Should Hold Us To:
 By End of Year 2: 70%+ of portfolio companies have a revenue-generating product live | At least 3 companies accepted into paid accelerators
 By End of Year 4: At least 50% of portfolio companies have raised a follow-on round | At least 2 companies generating $500K+ ARR | Net DPI tracking toward 1.0×
@@ -306,8 +299,94 @@ SECTION 7 — GLOSSARY (for LP questions about terminology)
 - Pro Rata: Right to maintain ownership % in future financing rounds. Protects stakes in winners.
 - European Waterfall: Carry paid only after LPs receive back ALL committed capital. Standard for US VC funds.
 
+== LP FAQ — OFFICIAL SOURCE (Right Shift Fund I FAQ, Notion) ==
+
+Q: What's the target fund size, and why not larger?
+A: $3M. Deliberate choice. At this size, one or two real breakouts return the fund — a single $15M exit at 7% ownership more than covers invested capital. Going larger hurts returns: more companies than we can stay close to, or bigger checks with more risk per company. We're first-time fund managers — $3M is closeable, deployable with discipline, and builds a real track record. We put 10% of our own money in (5× industry standard) — we're as motivated as any LP to make returns work.
+
+Q: Your MOIC looks strong but your IRR seems low — why?
+A: It comes down to time. MOIC = how much you multiply your money. IRR = how fast. Pre-seed investors get in early and hold through real value creation — 6–7 years, not 3. A fund showing high IRR at pre-seed is usually assuming unrealistically quick exits. Our base case Net IRR is ~16–18%, which clears the 15% threshold most institutional LPs require. The base MOIC of 2.76x is top quartile. For a 10-year horizon investor — which is who this fund is designed for — how much you get back matters more than how fast the spreadsheet annualizes it.
+
+Q: Why is your modeled writeoff rate (72%) higher than the 60–70% industry norm?
+A: Because we want the base case to hold up even if our de-risking thesis is completely wrong. If the accelerator and product studio produce zero improvement over a typical pre-seed portfolio, we still return 2.76x net to LPs. If the de-risking works as intended and writeoffs come in at or below the industry norm, base case returns are higher than modeled. The 72% is the pessimistic assumption, not the expected one.
+
+Q: Are follow-on returns included in your projections?
+A: No. The $474,000 follow-on reserve is not modeled in any scenario. All three return figures — conservative 1.66x, base 2.76x, best 14.2x — exclude follow-on upside entirely.
+
+Q: What is the effective check size — $100K or $70K?
+A: Both are accurate but measure different things. $100K is the committed check per company if milestones are hit. $70K is the effective average actually deployed across the full 32-company portfolio, accounting for companies that only receive Tranche 1.
+
+Q: What happens if the 40% milestone pass rate is wrong?
+A: The pass rate drives all portfolio construction — company counts, capital deployed, reserve size, and redeployment. Higher pass rate: more T2 capital called, reserve shrinks, fewer new companies funded. Lower pass rate: reserve grows, more capital available for redeployment. The 40% is deliberately conservative — we expect it to be higher given studio filtering.
+
+Q: Are the 12 redeployment companies guaranteed?
+A: No. Pipeline-dependent. If deal flow underperforms during the investment period, the portfolio may be closer to 20 than 32. The $675,000 earmarked for those 12 companies would shift to the reserve.
+
+Q: How are your IRR figures calculated?
+A: Standard methodology: MOIC raised to the power of 1 divided by the weighted average holding period, minus 1. Actual IRR will vary because exits happen at different times. These figures are directionally accurate for LP planning, not precise cash-flow IRR.
+
+Q: Why do management fees drop to zero in years 9 and 10?
+A: Active deployment and portfolio management is concentrated in years 1–8. Years 9–10 are wind-down and distribution. Charging full fees through year 10 on a largely realized portfolio is not LP-aligned. Total fees are $432,000 over fund life vs. $540,000 under a flat 2% structure — a $108,000 LP-friendly reduction.
+
+Q: What is the GP commit and why does it matter?
+A: $300,000 — 10% of the fund. Management fees are charged on $2.7M, not $3M, because the GP commit is excluded from the fee base. The ILPA recommended minimum is 1–2%. We are at 5× that minimum. Our capital is at risk alongside yours under identical terms.
+
+Q: Is recycled capital included in the model?
+A: No. Recycled capital is zero. All exits are distributed or taken as carry. The follow-on reserve is a separate, explicitly reserved pool — not recycled proceeds.
+
+Q: How should we read the best case scenario?
+A: As a mathematical upper bound, not a fund target. It requires 8 large exits at $75M valuations at 7% ownership. The number we underwrite to and manage the fund against is the base case: 2.76x net MOIC, 18.4% net IRR.
+
+Q: What does a company need to achieve to unlock Tranche 2?
+A: A company advances from T1 ($25K) to T2 ($75K) by demonstrating it has earned the capital. Three milestone gates — a company must hit at least two of three:
+1. Revenue or paid traction: early revenue or paying customers (not just users or a waitlist).
+2. Outside capital raised: a SAFE, angel round, or acceptance into another accelerator — independent third-party conviction signal.
+3. Meaningful moat evolution: strengthened defensibility — sharpened IP, deeper distribution channel, exclusive partnership, or product improvements harder for a competitor to replicate.
+
+Q: What happens to the $25K Tranche 1 for companies that don't pass the milestone gate?
+A: T1 is $25K deployed as studio credits at $55/hr — a fraction of market rate for institutional-quality product work. The capital flows from the fund to the founder, who directs it to the studio. For companies that don't advance, $25K is the full cost of the evaluation. The $75K Growth Capital never deploys. This also solves a real problem: most founders burn a significant portion of their pre-seed raise just getting to a prototype. RSV founders don't — they enter growth phase with capital largely intact.
+
+Q: Your conservative IRR is 8.7% — below the CA median. Why should an LP accept emerging manager risk for below-median downside?
+A: Because the conservative scenario isn't a typical downside — it assumes 24 of 32 companies return nothing (75% failure rate). Most funds don't stress-test to that level. Under those conditions, the fund still returns LP capital plus 66% (1.66x Net MOIC). The 8.7% IRR is the cost of modeling an honest worst case. The base case delivers 2.76x Net MOIC and 18.4% Net IRR — above Cambridge Associates top-quartile threshold on both measures.
+
+Q: Why deploy capital as studio credits rather than just writing a check?
+A: Most pre-seed founders don't fail for lack of cash — they fail because cash goes to building the wrong thing. Market rate for MVP development from an institutional-quality agency runs $75,000–$150,000+. A founder who spends that before raising has consumed most of their pre-seed capital before a customer has touched the product. RSV's $25K in studio credits at $55/hr gets founders to a working MVP without burning their runway. The structure isn't a constraint — it's capital efficiency by design.
+
+Q: What evidence exists that embedded product support actually improves outcomes?
+A: In 2023, over 70% of seed investors required a working MVP before committing. 60% of pre-seed companies already fail to reach Series A. The execution gap between having capital and having a product is where most pre-seed investments die. RSV compresses that gap by embedding the build capability into the investment. The studio has launched 40+ products with a 100% completion rate — that operational track record is the evidence applied to every portfolio company.
+
+Q: What is the fund's capital deployment schedule?
+A: $2.249M invested capital deployed across a 4-year investment period into 32 companies. Original 20 companies absorb $1.1M. 12 additional companies funded by recycled dry powder absorb $675K. Remaining $474K held as reserve (excluded from return projections, disclosed as conservative upside). Deal flow comes from three channels: studio, accelerator, and broader ecosystem. The Tranche 1 $25K entry check is small enough to move quickly; capital doesn't concentrate until a company has demonstrated MVP, traction, and team readiness.
+
+Q: How do you get to 32 companies on a $3M fund?
+A: The two-tranche structure does the work. 20 companies funded initially. 40% (8 companies) clear the milestone gate and receive Tranche 2. The 60% that don't pass stop at $25K, freeing $75K per company for immediate recycling. That freed capital funds 12 additional companies. Total: 32 companies, $1.775M deployed across T1 and T2, with $474K held as reserve.
+
+Q: What is the management fee structure?
+A: 2% of committed capital per year. $432K in total management fees over 10 years — standard by ILPA and NVCA benchmarks (2.0%–2.5% industry range). Fees drop to 0% in Years 9–10.
+
+Q: What are the total fees as a % of committed capital?
+A: $751K total, approximately 25% of the $3M fund — at the upper edge of the 15%–25% range for micro-funds ($1M–$10M). $24K is one-time org cost. $295K covers 10 years of recurring operations. $432K is management fees. 75 cents of every committed dollar is deployed into companies.
+
+Q: Is there a hurdle rate?
+A: The model does not include a preferred return hurdle. This is disclosed. LPs with a preferred return requirement should raise this directly with the GPs.
+
+Q: How much are the GPs putting in?
+A: $300,000 — over 10% of the $3M fund. Approximately 5× the ILPA recommended minimum of 1–2%. The GP commit is excluded from the management fee base per the ILPA fee transparency framework.
+
+Q: How do you handle a 32-company portfolio with two GPs?
+A: Portfolio monitoring, LP reporting, founder check-ins, and diligence support are AI-augmented — enabling institutional-grade operations without additional headcount. Kauffman Foundation and NVCA both cite 2–3 GPs as the benchmark for emerging funds in the $3M–$10M range.
+
+Q: Where do the return scenarios sit relative to Cambridge Associates benchmarks?
+Conservative: 1.66x Net MOIC, 8.7% Net IRR — at median Net MOIC; below median Net IRR.
+Base: 2.76x Net MOIC, 18.4% Net IRR — top quartile on both metrics.
+Best: 14.2x Net MOIC, 50.1% Net IRR — top decile.
+Source: Cambridge Associates 2024, ILPA Emerging Manager Study 2023.
+
+Q: What exit size assumptions drive the base case?
+A: Small exits: $3M company value × 7% = $210K. Medium exits: $15M × 7% = $1.05M. Large exits: $40M × 7% = $2.8M. Four exits across those tiers, with 23 writeoffs out of 32 companies, produce ~$9.59M in gross proceeds against $2.249M invested — 4.26x Gross MOIC, 2.76x Net MOIC after fees and carry.
+
 == IMPORTANT CONTEXT ==
-- The pitch deck references $330K GP commit and $300K in different places. The fund model uses $300K (10% of $3M). The $330K figure in the deck may reflect personal pre-fund deployment. Use $300K as the official GP commit figure.
+- The pitch deck shows GP Commit as "10% → $300,000" on the Fund Economics slide. The $330K figure on the cover slide refers to personal capital deployed across 4 companies before Fund I was formed. The official GP commit to Fund I is $300,000 (10% of $3M).
 - Fansub conflict-of-interest is fully disclosed: Chris Davis co-founded Fansub. Deep Kalina evaluated it independently with Chris fully recused. All future GP-adjacent investments follow the same protocol.
 - All warehouse portfolio marks (Ballin, Fansub, Stufinder, VulvAI) are GP estimates, not audited third-party valuations.
 - The fund has not yet held a first close. First close is targeted for Q2 2026.
@@ -327,7 +406,6 @@ const SUGGESTED_QUESTIONS = [
   "Who are the fund managers?",
   "What's the minimum LP commitment?",
 ];
-
 export default function App() {
   const [messages, setMessages] = useState([
     {
