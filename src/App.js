@@ -456,13 +456,16 @@ export default function App() {
     <div style={{
       fontFamily: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
       background: "#1a1919",
+      height: "100vh",
       minHeight: "100vh",
+      overflow: "hidden",
       display: "flex",
       flexDirection: "column",
       color: "#e8e4dc",
     }}>
-      {/* Header */}
+      {/* Header — fixed */}
       <div style={{
+        flexShrink: 0,
         borderBottom: "1px solid #2a2820",
         padding: "20px 32px",
         display: "flex",
@@ -514,31 +517,28 @@ export default function App() {
         </div>
       </div>
 
-      {/* Chat area */}
-      <div className="chat-shell" style={{
-        flex: 1,
-        overflowY: "auto",
-        padding: "32px",
-        maxWidth: "780px",
-        width: "100%",
-        margin: "0 auto",
-        boxSizing: "border-box",
-        background: "#1a1919",
-        borderLeft: "1px solid #262626",
-        borderRight: "1px solid #262626",
-      }}>
-        {/* Founders strip */}
+      {/* Founders strip — fixed */}
+      <div
+        className="founders-strip"
+        style={{
+          flexShrink: 0,
+          margin: "0 auto",
+          width: "100%",
+          maxWidth: "780px",
+          padding: "16px 32px",
+          boxSizing: "border-box",
+        }}
+      >
         <div
-          className="founders-strip"
+          className="founders-strip-card"
           style={{
-            marginBottom: "28px",
             padding: "18px 20px",
             borderRadius: "12px",
             border: "1px solid rgba(123,55,219,0.5)",
             background:
               "linear-gradient(135deg, rgba(123,55,219,0.35), rgba(75,31,168,0.7))",
             display: "flex",
-            gap: "18px",
+            gap: "6px",
             alignItems: "center",
           }}
         >
@@ -562,13 +562,7 @@ export default function App() {
               gap: "16px",
             }}
           >
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                gap: "10px",
-              }}
-            >
+            <div className="founder-block" style={{ display: "flex", alignItems: "center", gap: "10px" }}>
               <img
                 src="https://cdn.prod.website-files.com/660af6b61d9301a93291ccb2/6687fdcb8a31b7e59c3e3b6d_11.png"
                 alt="Deep — Founder & CEO"
@@ -581,35 +575,15 @@ export default function App() {
                 }}
               />
               <div>
-                <div
-                  style={{
-                    fontSize: "13px",
-                    fontWeight: 600,
-                    letterSpacing: "0.03em",
-                  }}
-                >
+                <div className="founder-name" style={{ fontSize: "13px", fontWeight: 600, letterSpacing: "0.03em" }}>
                   Deep Kalina
                 </div>
-                <div
-                  style={{
-                    fontSize: "11px",
-                    color: "#a09890",
-                    letterSpacing: "0.08em",
-                    textTransform: "uppercase",
-                  }}
-                >
+                <div className="founder-role" style={{ fontSize: "11px", color: "#a09890", letterSpacing: "0.08em", textTransform: "uppercase" }}>
                   Founder &amp; CEO
                 </div>
               </div>
             </div>
-
-            <div
-              style={{
-                display: "flex",
-                alignItems: "center",
-                gap: "10px",
-              }}
-            >
+            <div className="founder-block" style={{ display: "flex", alignItems: "center", gap: "10px" }}>
               <img
                 src="https://cdn.prod.website-files.com/660af6b61d9301a93291ccb2/6687fdcb880ee1833ef2cbff_10.png"
                 alt="Chris — Managing Partner, Ventures"
@@ -622,30 +596,35 @@ export default function App() {
                 }}
               />
               <div>
-                <div
-                  style={{
-                    fontSize: "13px",
-                    fontWeight: 600,
-                    letterSpacing: "0.03em",
-                  }}
-                >
+                <div className="founder-name" style={{ fontSize: "13px", fontWeight: 600, letterSpacing: "0.03em" }}>
                   Chris Davis
                 </div>
-                <div
-                  style={{
-                    fontSize: "11px",
-                    color: "#a09890",
-                    letterSpacing: "0.08em",
-                    textTransform: "uppercase",
-                  }}
-                >
+                <div className="founder-role" style={{ fontSize: "11px", color: "#a09890", letterSpacing: "0.08em", textTransform: "uppercase" }}>
                   Managing Partner – Ventures
                 </div>
               </div>
             </div>
           </div>
         </div>
+      </div>
 
+      {/* Chat messages — scrollable */}
+      <div
+        className="chat-shell"
+        style={{
+          flex: 1,
+          minHeight: 0,
+          overflowY: "auto",
+          padding: "24px 32px 16px",
+          maxWidth: "780px",
+          width: "100%",
+          margin: "0 auto",
+          boxSizing: "border-box",
+          background: "#1a1919",
+          borderLeft: "1px solid #262626",
+          borderRight: "1px solid #262626",
+        }}
+      >
         {messages.map((m, i) => (
           <div key={i} style={{
             marginBottom: "28px",
@@ -747,8 +726,9 @@ export default function App() {
         <div ref={bottomRef} />
       </div>
 
-      {/* Input */}
+      {/* Input — fixed at bottom */}
       <div style={{
+        flexShrink: 0,
         borderTop: "1px solid #1e1c14",
         padding: "20px 32px",
         background: "#0d0d0a",
@@ -846,16 +826,49 @@ export default function App() {
             border-right: none;
           }
           .founders-strip {
-            padding: 14px 14px;
+            padding: 6px 12px 8px;
+          }
+          .founders-strip-card {
             flex-direction: column;
             align-items: flex-start;
+            padding: 10px 12px;
+            gap: 4px;
           }
           .founders-strip-label {
             min-width: auto;
-            margin-bottom: 8px;
+            margin-bottom: 2px;
+            font-size: 10px;
+            letter-spacing: 0.12em;
           }
           .founders-strip-people {
-            gap: 12px;
+            gap: 8px;
+            flex-wrap: nowrap;
+            width: 100%;
+            justify-content: flex-start;
+          }
+          .founders-strip-people img {
+            width: 32px;
+            height: 32px;
+          }
+          .founders-strip-people > div {
+            flex: 1;
+            min-width: 0;
+            flex-direction: column;
+            align-items: center;
+            gap: 2px;
+            text-align: center;
+          }
+          .founders-strip-people > div > div:last-child {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0;
+          }
+          .founder-block .founder-name {
+            font-size: 12px !important;
+          }
+          .founder-block .founder-role {
+            font-size: 10px !important;
           }
         }
       `}</style>
