@@ -454,8 +454,8 @@ export default function App() {
 
   return (
     <div style={{
-      fontFamily: "'Georgia', 'Times New Roman', serif",
-      background: "#0a0a08",
+      fontFamily: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      background: "#1a1919",
       minHeight: "100vh",
       display: "flex",
       flexDirection: "column",
@@ -469,32 +469,53 @@ export default function App() {
         alignItems: "center",
         gap: "16px",
         background: "#0d0d0a",
+        flexWrap: "wrap",
       }}>
         <img src="/rightshift-logo.png" width="36px" alt="" />
         <div>
-          <div style={{ fontSize: "15px", fontWeight: "600", fontFamily: '"Neue Haas Grotesk", Helvetica, Arial, sans-serif', letterSpacing: "0.04em", color: "#4B1FA8" }}>
+          <div style={{ fontSize: "15px", fontWeight: "600", fontFamily: '"Neue Haas Grotesk", Helvetica, Arial, sans-serif', letterSpacing: "0.04em", color: "#ffffff" }}>
             RightShift Ventures
           </div>
-          <div style={{ fontSize: "11px", color: "#7a7468", letterSpacing: "0.12em", textTransform: "uppercase" }}>
+          <div style={{ fontSize: "11px", color: "#7a7468", letterSpacing: "0.12em", textTransform: "uppercase", fontWeight: 600, fontFamily: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" }}>
             Fund I · LP Information Portal
           </div>
         </div>
-        <div style={{
-          marginLeft: "auto",
-          fontSize: "11px",
-          color: "#c9a84c",
-          letterSpacing: "0.1em",
-          textTransform: "uppercase",
-          border: "1px solid #3a3420",
-          padding: "4px 10px",
-          borderRadius: "2px",
-        }}>
-          Confidential
+        <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: "10px" }}>
+          <div style={{
+            fontSize: "11px",
+            color: "#c9a84c",
+            letterSpacing: "0.1em",
+            textTransform: "uppercase",
+            border: "1px solid #3a3420",
+            padding: "4px 10px",
+            borderRadius: "2px",
+          }}>
+            Confidential
+          </div>
+          <a
+            href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0UI5oTHWlH5oOzqJoVdP-iZBjW1foSE-uV_CJFlSa8RpPotnhw5oB3qOJ_kVtYB0_N9wYUEYEr"
+            target="_blank"
+            rel="noreferrer"
+            style={{
+              fontSize: "11px",
+              letterSpacing: "0.08em",
+              textTransform: "uppercase",
+              padding: "6px 12px",
+              borderRadius: "16px",
+              border: "1px solid #7b37db",
+              color: "#f5f0ff",
+              background: "linear-gradient(135deg, #7b37db, #4B1FA8)",
+              textDecoration: "none",
+              fontFamily: "'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+            }}
+          >
+            Schedule a Call
+          </a>
         </div>
       </div>
 
       {/* Chat area */}
-      <div style={{
+      <div className="chat-shell" style={{
         flex: 1,
         overflowY: "auto",
         padding: "32px",
@@ -502,7 +523,129 @@ export default function App() {
         width: "100%",
         margin: "0 auto",
         boxSizing: "border-box",
+        background: "#1a1919",
+        borderLeft: "1px solid #262626",
+        borderRight: "1px solid #262626",
       }}>
+        {/* Founders strip */}
+        <div
+          className="founders-strip"
+          style={{
+            marginBottom: "28px",
+            padding: "18px 20px",
+            borderRadius: "12px",
+            border: "1px solid rgba(123,55,219,0.5)",
+            background:
+              "linear-gradient(135deg, rgba(123,55,219,0.35), rgba(75,31,168,0.7))",
+            display: "flex",
+            gap: "18px",
+            alignItems: "center",
+          }}
+        >
+          <div
+            className="founders-strip-label"
+            style={{
+              fontSize: "11px",
+              letterSpacing: "0.16em",
+              textTransform: "uppercase",
+              color: "#7a7468",
+              minWidth: "120px",
+            }}
+          >
+            Fund Leadership
+          </div>
+          <div
+            className="founders-strip-people"
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              gap: "16px",
+            }}
+          >
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                gap: "10px",
+              }}
+            >
+              <img
+                src="https://cdn.prod.website-files.com/660af6b61d9301a93291ccb2/6687fdcb8a31b7e59c3e3b6d_11.png"
+                alt="Deep — Founder & CEO"
+                style={{
+                  width: "40px",
+                  height: "40px",
+                  borderRadius: "999px",
+                  objectFit: "cover",
+                  border: "1px solid #3a3420",
+                }}
+              />
+              <div>
+                <div
+                  style={{
+                    fontSize: "13px",
+                    fontWeight: 600,
+                    letterSpacing: "0.03em",
+                  }}
+                >
+                  Deep Kalina
+                </div>
+                <div
+                  style={{
+                    fontSize: "11px",
+                    color: "#a09890",
+                    letterSpacing: "0.08em",
+                    textTransform: "uppercase",
+                  }}
+                >
+                  Founder &amp; CEO
+                </div>
+              </div>
+            </div>
+
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                gap: "10px",
+              }}
+            >
+              <img
+                src="https://cdn.prod.website-files.com/660af6b61d9301a93291ccb2/6687fdcb880ee1833ef2cbff_10.png"
+                alt="Chris — Managing Partner, Ventures"
+                style={{
+                  width: "40px",
+                  height: "40px",
+                  borderRadius: "999px",
+                  objectFit: "cover",
+                  border: "1px solid #3a3420",
+                }}
+              />
+              <div>
+                <div
+                  style={{
+                    fontSize: "13px",
+                    fontWeight: 600,
+                    letterSpacing: "0.03em",
+                  }}
+                >
+                  Chris Davis
+                </div>
+                <div
+                  style={{
+                    fontSize: "11px",
+                    color: "#a09890",
+                    letterSpacing: "0.08em",
+                    textTransform: "uppercase",
+                  }}
+                >
+                  Managing Partner – Ventures
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         {messages.map((m, i) => (
           <div key={i} style={{
             marginBottom: "28px",
@@ -695,6 +838,26 @@ export default function App() {
         ::-webkit-scrollbar { width: 4px; }
         ::-webkit-scrollbar-track { background: transparent; }
         ::-webkit-scrollbar-thumb { background: #2a2820; border-radius: 2px; }
+
+        @media (max-width: 640px) {
+          .chat-shell {
+            padding: 20px 16px;
+            border-left: none;
+            border-right: none;
+          }
+          .founders-strip {
+            padding: 14px 14px;
+            flex-direction: column;
+            align-items: flex-start;
+          }
+          .founders-strip-label {
+            min-width: auto;
+            margin-bottom: 8px;
+          }
+          .founders-strip-people {
+            gap: 12px;
+          }
+        }
       `}</style>
     </div>
   );
