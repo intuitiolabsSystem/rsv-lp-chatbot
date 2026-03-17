@@ -574,9 +574,9 @@ export default function App() {
           <div
             className="founders-strip-people"
             style={{
-              display: "flex",
-              flexWrap: "wrap",
-              gap: "16px",
+              display: "grid",
+              gridTemplateColumns: "repeat(2, minmax(0, 1fr))",
+              gap: "12px 16px",
             }}
           >
             <div className="founder-block" style={{ display: "flex", alignItems: "center", gap: "10px" }}>
@@ -686,7 +686,7 @@ export default function App() {
                   href="mailto:anna@rightshift.co"
                   style={{ fontSize: "10px", color: "#8f8678", letterSpacing: "0.03em", textDecoration: "none", marginTop: "0", lineHeight: "1.3", display: "block" }}
                 >
-                  anna@rightshift.co
+                  anna.cable@rightshift.co
                 </a>
               </div>
             </div>
@@ -927,17 +927,16 @@ export default function App() {
             letter-spacing: 0.12em;
           }
           .founders-strip-people {
-            gap: 8px;
-            flex-wrap: nowrap;
             width: 100%;
-            justify-content: flex-start;
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 8px 10px;
           }
           .founders-strip-people img {
             width: 32px;
             height: 32px;
           }
           .founders-strip-people > div {
-            flex: 1;
             min-width: 0;
             flex-direction: column;
             align-items: center;
