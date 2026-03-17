@@ -651,6 +651,15 @@ export default function App() {
                 <div className="founder-name" style={{ fontSize: "13px", fontWeight: 600, letterSpacing: "0.03em" }}>
                   Anastasia Nicole
                 </div>
+                <div className="founder-role" style={{ fontSize: "11px", color: "#a09890", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: "0" }}>
+                Director of Strategic Initiatives & Investment Operations
+                </div>
+                <a
+                  href="mailto:anastasia@rightshift.co"
+                  style={{ fontSize: "10px", color: "#8f8678", letterSpacing: "0.03em", textDecoration: "none", marginTop: "0", lineHeight: "1.3", display: "block" }}
+                >
+                  anastasia.nicole@rightshift.co
+                </a>
               </div>
             </div>
 
